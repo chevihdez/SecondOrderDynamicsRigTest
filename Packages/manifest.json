@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "com.unity.feature.development": "1.0.1",
-    "com.unity.ide.rider": "3.0.15",
-    "com.unity.render-pipelines.universal": "13.1.8",
+    "com.unity.ai.navigation": "2.0.0",
+    "com.unity.feature.development": "1.0.2",
+    "com.unity.ide.rider": "3.0.28",
+    "com.unity.render-pipelines.universal": "16.0.5",
     "wtf.cmd.tools": "https://github.com/cmdwtf/UnityTools.git",
+    "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
